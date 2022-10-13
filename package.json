@@ -1,0 +1,13 @@
+{
+  "name": "poc-erc948",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.1",
+    "@types/chai": "^4.3.1",
+    "@types/mocha": "^9.1.1",
+    "@types/node": "^18.0.3",
+    "chai": "^4.3.6",
+    "hardhat": "^2.10.0",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  }
+}
